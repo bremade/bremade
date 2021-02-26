@@ -9,8 +9,11 @@
 
 ## Current Projects
 <a href="https://bremauer.cc"><img src="https://img.shields.io/badge/Website%20-%232196f3.svg?style=for-the-badge&logo=codeforces&labelColor=black&logoColor=white"/></a>
-<a href="https://github.com/bremade/recify"><img src="https://img.shields.io/badge/Recify%20-%232196f3.svg?style=for-the-badge&logo=github&labelColor=black"/></a>
+<a href="https://github.com/bremade/Portfolio"><img src="https://img.shields.io/badge/Portfolio%20-%232196f3.svg?style=for-the-badge&logo=github&labelColor=black"/></a>
+
+<a href="https://github.com/bremade/chess"><img src="https://img.shields.io/badge/Chess%20-%232196f3.svg?style=for-the-badge&logo=github&labelColor=black"/></a>
 <a href="https://github.com/bremade/dotfiles"><img src="https://img.shields.io/badge/Dotfiles%20-%232196f3.svg?style=for-the-badge&logo=github&labelColor=black"/></a>
+<a href="https://github.com/bremade/recify"><img src="https://img.shields.io/badge/Recify%20-%232196f3.svg?style=for-the-badge&logo=github&labelColor=black"/></a>
 
 ### Socials
 <a href="https://www.linkedin.com/in/jan-bremauer-2a603611b/"><img src="https://img.shields.io/badge/linkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.instagram.com/janb_98/"><img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://twitter.com/BremauerJan/"><img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
