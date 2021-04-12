@@ -1,7 +1,7 @@
 # Jan Bremauer
 ## About Me
 - 🎓 Computer Science Student
-- 👨‍💼 Workstudent for doubleSlash Net-Business GmbH
+- 👨‍💼 Working student for doubleSlash Net-Business GmbH
 - 💡 Hobbies:
   - 💻 Software and technology
   - ⚽ Football
