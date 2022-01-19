@@ -1,11 +1,12 @@
 # Jan Bremauer
 ## About Me
-- 🎓 Computer Science Student
-- 👨‍💼 Working student for doubleSlash Net-Business GmbH
+- 👨‍💼 Software Developer for doubleSlash Net-Business GmbH
+- 🎓 Bachelor of Science
 - 💡 Hobbies:
   - 💻 Software and technology
   - ⚽ Football
   - 🏁 Formula 1
+  - :red_circle: Darts
 
 ## Current Projects
 <a href="https://bremauer.cc"><img src="https://img.shields.io/badge/Website%20-%232196f3.svg?style=for-the-badge&logo=codeforces&labelColor=black&logoColor=white"/></a>
